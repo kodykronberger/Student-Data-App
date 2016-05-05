@@ -1,0 +1,27 @@
+body {
+    background-color: #2E5B75;
+}
+
+.wrapper {
+    width: 950px;
+    margin: 0 auto;
+}
+
+.nav-center {
+    width: 950px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 64px;
+    color: red;
+}
+
+#all-students {
+    max-height: 300px;
+    overflow: auto;
+}
+
+#findallbtn {
+    margin-bottom: 10px;
+}

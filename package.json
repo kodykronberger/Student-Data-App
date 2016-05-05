@@ -1,0 +1,11 @@
+{
+  "name": "studentdataapplication",
+  "version": "1.0.0",
+  "description": "MEAN Student Data Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dakota Kronberger",
+  "license": "ISC"
+}
